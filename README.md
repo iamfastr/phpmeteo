@@ -1,0 +1,2 @@
+# phpmeteo
+phpMeteo translations
